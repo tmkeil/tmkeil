@@ -12,7 +12,7 @@ I’m passionate about problem-solving, systems thinking, and building things th
 🚀 Currently looking for a **software engineering or IT internship**.
 
 📍 Based near Stuttgart, Germany  
-📫 Contact: tobiaskeil.dev@gmail.com | [LinkedIn] |
+📫 Contact: tobiaskeil.dev@gmail.com | [LinkedIn](https://linkedin.com/in/tobias-m-keil) |
 
 ---
 
