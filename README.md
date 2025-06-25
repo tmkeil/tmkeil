@@ -37,7 +37,7 @@ I’m passionate about problem-solving, systems thinking, and building things th
 | 04 | [cub3D](https://github.com/tmkeil/cub3D) | C | A basic 3D engine using raycasting, inspired by Wolfenstein 3D. |
 | 05 | [CPP Modules (00–09)](https://github.com/tmkeil/cpp) | C++ | A journey into C++: OOP, inheritance, templates, containers, exceptions. |
 | 05 | [inception](https://github.com/tmkeil/inception) | Docker | Dockerized server infrastructure: WordPress, NGINX, MariaDB, etc. |
-| 05 | [ft_irc](https://github.com/tmkeil/) | C++ |  |
+| 05 | [ft_irc](https://github.com/tmkeil/ft_irc) | C++ |  |
 | 06 | [ft_transcendence](https://github.com/tmkeil/) | |
 
 ---
