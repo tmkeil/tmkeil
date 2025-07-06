@@ -16,7 +16,7 @@ I’m passionate about problem-solving, systems thinking, and building things. I
 
 ---
 
-## 🛠️ Selected Private Projects
+## My own Projects
 
 | Nr. | Repository | Stack | Description |
 |:--:|:-----------|:------|:------------|
@@ -26,7 +26,7 @@ I’m passionate about problem-solving, systems thinking, and building things. I
 
 ---
 
-## 🧠 42 Heilbronn Projects
+## 42 Heilbronn Projects
 
 | Circle | Project | Language | Description |
 |:-----:|:--------|:--------:|:------------|
