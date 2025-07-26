@@ -22,7 +22,7 @@ I’m passionate about problem-solving, systems thinking, and building things. I
 |:--:|:-----------|:------|:------------|
 | 01 | [Workforce Assignment App](https://github.com/tmkeil/IonicAngularApp) | Ionic · Angular · TypeScript · Firebase | A workforce management app for assigning employees to workstations in real-time. Includes Telegram bot notifications, group/station/skill management, and dynamic shift assignment. Optimized for mobile and desktop. |
 | 02 | [Pocket Remote Controll App](https://github.com/tmkeil/PocketRemoteControl) | FastAPI · React Native (Expo) · JWT Authentication · QR Login · Cloudflare Tunnel · Node.js CORS Proxy · Python · Unix & Bash Scripting | A remote access app that lets me check my PC’s system status and shut it down from anywhere using a React Native frontend and Python backend. It’s exposed securely through a Cloudflare tunnel and includes QR-based login with JWT authentication. I built this tool to dive deeper into backend/frontend communication, token handling, CORS workarounds, and secure tunneling. The app reads system info like CPU/memory usage and offers a one-tap shutdown feature—all from a mobile UI. |
-| 03 | [File_Word_Compare](https://github.com/tmkeil/File_Word_Compare) | Python | A very small tool to compare the words from two `txt` files and to show which words are **missing** in either file. |
+| 03 | [RegressionModels_WithPython](https://github.com/tmkeil/RegressionModels_WithPython/tree/main) | Python · Pandas · NumPy · scikit-learn · Matplotlib · seaborn | A learning project to compare linear, polynomial, and ridge regression on real-world fuel consumption data. Includes EDA, residual/KDE plots, GridSearchCV, and model evaluation via R², MSE, and cross-validation. |
 
 ---
 
