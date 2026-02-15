@@ -1,71 +1,61 @@
-# 👋 Hi, I'm Tobias
+# Hi, I'm Tobias
 
-**C/C++ Developer** | Embedded Systems | 42 Heilbronn Student
+**Software Developer** | B.Eng. Mechanical Engineering  
+*Currently: Full-Stack Intern @ iss innovative software services (Stuttgart)*
 
-Mechanical engineer transitioning to low-level software development. I'm passionate about systems programming, performance optimization, and building efficient solutions close to the hardware.
-
-**Currently focused on:**
-- Systems Programming: C, C++ (OOP, templates, STL)
-- Low-level Development: Memory management, pointers, algorithms
-- Infrastructure: Docker, Linux, Shell scripting
-- Also capable of: Full-stack (Python/FastAPI, React/TypeScript) when needed
-
-**Recent work:** 42 curriculum projects (minishell, cub3D raycasting engine, IRC server) + a 19k LOC production application to demonstrate end-to-end capabilities.
-
-🚀 **Looking for:** C/C++ Development or Embedded Systems internships  
 📍 Stuttgart, Germany  
-📫 tobiaskeil.dev@gmail.com | [LinkedIn](https://linkedin.com/in/tobias-m-keil)
+📧 tobiaskeil.dev@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/tobias-m-keil)
 
 ---
 
-## 42 Heilbronn Projects (Core Focus)
+Mechanical engineer turned software developer. After a B.Eng. and six years at Mercedes-Benz, I joined 42 Heilbronn to build software from the ground up — starting with C, working through systems programming, and now building production web applications. I bring the structured problem-solving from engineering into writing reliable, maintainable code.
 
-| Circle | Project | Language | Description |
-|:-----:|:--------|:--------:|:------------|
-| 00 | [libft](https://github.com/tmkeil/libft) | C | Custom implementation of common libc functions - foundation for all projects. |
-| 03 | [**minishell**](https://github.com/tmkeil/minishell) | C | **Unix shell implementation** with parsing, process execution, pipes, redirections, and environment handling. |
-| 04 | [**cub3D**](https://github.com/tmkeil/cub3D) | C | **3D raycasting engine** inspired by Wolfenstein 3D. Real-time rendering with texture mapping. |
-| 05 | [**ft_irc**](https://github.com/tmkeil/ft_irc) | C++ | **IRC server implementation** with socket programming, multi-client handling, and protocol parsing. |
-| 05 | [**CPP Modules (00–09)**](https://github.com/tmkeil/cpp) | C++ | **Deep dive into C++**: OOP, inheritance, polymorphism, templates, STL containers, exceptions, RAII. |
-| 05 | [inception](https://github.com/tmkeil/inception) | Docker | Multi-container infrastructure: NGINX, WordPress, MariaDB. Docker networking and orchestration. |
-| 01 | [ft_printf](https://github.com/tmkeil/ft_printf) | C | Variadic functions and formatted output implementation. |
-| 01 | [get_next_line](https://github.com/tmkeil/get_next_line) | C | Efficient file reading with static variables and buffer management. |
-| 02 | [push_swap](https://github.com/tmkeil/pushswap) | C | Algorithm optimization: efficient sorting with limited operations. |
+**Looking for:** Cloud & DevOps, Software Development positions (available from April 2026)  
+*Currently learning: Kubernetes, cloud-native deployment*
 
 ---
 
-## Personal Projects
+## Work
 
-| Nr. | Repository | Stack | Description |
-|:--:|:-----------|:------|:------------|
-| 01 | [**Hierarchical Product Configurator**](https://github.com/tmkeil/hierarchical-product-configurator) | Python · FastAPI · React · TypeScript · SQLite · PostgreSQL · Azure SQL · Docker · Azure DevOps | Production-ready full-stack application (~19k LOC) for managing hierarchical product configurations. **Backend:** 15+ REST API endpoints, JWT authentication, role-based access control, Closure Table pattern for efficient hierarchical queries. **Frontend:** React 18 with TypeScript, dynamic filtering, admin panel. **DevOps:** CI/CD with Azure Pipelines, Docker deployment, database migration support (SQLite → PostgreSQL/Azure SQL). Demonstrates end-to-end development capabilities beyond systems programming. |
-| 02 | [Workforce Assignment App](https://github.com/tmkeil/IonicAngularApp) | Ionic · Angular · TypeScript · Firebase · Telegram Bot API | Real-time workforce management with Telegram integration, shift assignment, and skill-based routing. |
-| 03 | [Pocket Remote Control](https://github.com/tmkeil/PocketRemoteControl) | FastAPI · React Native (Expo) · JWT · Cloudflare Tunnel · Python · Bash | Secure remote system control with QR-based authentication and system monitoring. |
-| 04 | [Regression Models](https://github.com/tmkeil/RegressionModels_WithPython) | Python · Pandas · NumPy · scikit-learn · Matplotlib | Machine learning exploration: comparing linear, polynomial, and ridge regression models. |
+**iss innovative software services** (Balluff subsidiary) — Full-Stack Intern, Oct 2025 – Mar 2026
+
+Building a production product configurator that replaces manual data processes with a structured database application — saving several hours of manual work per day. The stack:
+- **Backend:** Python/FastAPI, RESTful API, JWT authentication
+- **Frontend:** React, TypeScript, TailwindCSS, React Query
+- **Database:** Azure SQL, schema design, query optimization on hierarchical data, migrations
+- **DevOps:** Docker, Azure DevOps CI/CD pipelines, Git
 
 ---
 
-## 📊 Stats & Tech Stack
+## Projects (42 Heilbronn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmkeil&layout=compact&theme=default)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tmkeil&show_icons=true&hide=stars&count_private=true)
+### Infrastructure & Networking
 
-### Primary Focus
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+* [**ft_transcendence**](https://github.com/tmkeil/ft_transcendence)
+  — Full-stack multiplayer Pong. My part: WebSocket networking, remote player systems, database & backend architecture, live chat, user dashboard (friending/blocking/invites). The full stack includes Docker Compose orchestration, Nginx reverse proxy, and monitoring with Prometheus/Grafana/AlertManager.
 
-### Also Proficient In
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+* [**Inception**](https://github.com/tmkeil/Inception)
+  — Docker infrastructure built from scratch: Nginx with TLS termination, WordPress with PHP-FPM, MariaDB with hardened bootstrap — all on custom Debian images, deployed with a single `make` command.
 
-### Databases & Infrastructure
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+### Systems Programming
+
+* [**ft_irc**](https://github.com/tmkeil/ft_irc)
+  — IRC server in C++ with socket programming and multi-client handling
+
+* [**cub3D**](https://github.com/tmkeil/cub3D)
+  — 3D raycasting engine in C with real-time rendering
+
+* [**CPP Modules**](https://github.com/tmkeil/cpp)
+  — Modern C++: OOP, templates, STL, RAII
+
+---
+
+## Tech Stack
+
+- **Languages:** Python, TypeScript, C/C++
+- **Frontend:** React, TailwindCSS, React Query
+- **Backend:** FastAPI, Node.js, RESTful APIs, JWT, WebSockets
+- **Databases:** Azure SQL, SQLite
+- **DevOps:** Docker, Azure DevOps, CI/CD Pipelines, Git
+- **Systems:** Linux, Bash, Socket Programming
