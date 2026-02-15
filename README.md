@@ -40,14 +40,22 @@ Building a production product configurator that replaces manual data processes w
 
 ### Systems Programming
 
+* [**Philosophers**](https://github.com/tmkeil/philosophers)
+  — Dining Philosophers Problem in C with POSIX threads: deadlock prevention via fork ordering, dedicated monitor thread, sub-millisecond death detection
+
 * [**ft_irc**](https://github.com/tmkeil/ft_irc)
   — IRC server in C++ with socket programming and multi-client handling
 
 * [**cub3D**](https://github.com/tmkeil/cub3D)
-  — 3D raycasting engine in C with real-time rendering
+  — 3D raycasting engine in C with DDA algorithm, textured walls, and real-time rendering
 
 * [**CPP Modules**](https://github.com/tmkeil/cpp)
   — Modern C++: OOP, templates, STL, RAII
+
+### Personal Projects
+
+* [**PocketRemote**](https://github.com/tmkeil/PocketRemoteControl)
+  — React Native app for remotely monitoring and shutting down my PC. FastAPI backend exposed via Cloudflare tunnel, JWT auth with QR-code login flow
 
 ---
 
