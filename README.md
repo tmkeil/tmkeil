@@ -1,6 +1,6 @@
 # Hi, I'm Tobias
 
-**Software Developer** and graduate of 42 Heilbronn | B.Eng. Mechanical Engineering  
+**Software Developer** | 42 Heilbronn | B.Eng. Mechanical Engineering  
 *Currently: Full-Stack Intern @ iss innovative software services (Stuttgart)*
 
 📍 Stuttgart, Germany  
