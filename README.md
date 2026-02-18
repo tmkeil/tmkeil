@@ -9,10 +9,10 @@
 
 ---
 
-Software developer and graduate of 42 Heilbronn. After a B.Eng. in Mechanical Engineering and six years at Mercedes-Benz, I transitioned into software development. Currently building a production web application as a full-stack developer at iss innovative software services in Stuttgart.
+Software developer and graduate of 42 Heilbronn. After a B.Eng. in Mechanical Engineering and six years at Mercedes-Benz, I transitioned into software development. Currently building a cloud-native web application as a full-stack developer at iss innovative software services in Stuttgart.
 
 **Looking for:** Cloud & DevOps, Software Development positions (available from April 2026)  
-*Currently learning: Kubernetes, cloud-native deployment*
+*Currently learning: Kubernetes*
 
 ---
 
@@ -20,10 +20,11 @@ Software developer and graduate of 42 Heilbronn. After a B.Eng. in Mechanical En
 
 **iss innovative software services** (Balluff subsidiary), Full-Stack Intern, Oct 2025 – Mar 2026
 
-Building a production product configurator that replaces manual data processes with a structured database application, saving several hours of manual work per day. The stack:
+Building a product configurator that structures and automates internal workflows, replacing manual data processes. The stack:
 - **Backend:** Python/FastAPI, RESTful API, JWT authentication
 - **Frontend:** React, TypeScript, TailwindCSS, React Query
 - **Database:** Azure SQL, schema design, query optimization on hierarchical data, migrations
+- **Cloud:** Azure (App Service, Entra ID, Key Vault), role-based authentication
 - **DevOps:** Docker, Azure DevOps CI/CD pipelines, Git
 
 ---
@@ -65,5 +66,5 @@ Building a production product configurator that replaces manual data processes w
 - **Frontend:** React, TailwindCSS, React Query
 - **Backend:** FastAPI, Node.js, RESTful APIs, JWT, WebSockets
 - **Databases:** Azure SQL, SQLite
-- **DevOps:** Docker, Azure DevOps, CI/CD Pipelines, Git
+- **Cloud & DevOps:** Azure, Azure DevOps, Docker, CI/CD Pipelines, Git
 - **Systems:** Linux, Bash, Socket Programming
