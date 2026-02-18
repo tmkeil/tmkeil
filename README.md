@@ -20,7 +20,7 @@ Software developer and graduate of 42 Heilbronn. After a B.Eng. in Mechanical En
 
 **iss innovative software services** (Balluff subsidiary), Full-Stack Intern, Oct 2025 – Mar 2026
 
-Building a product configurator that structures and automates internal workflows, replacing manual data processes. The stack:
+Building a product configurator that automates internal workflows, replacing manual data processes. The stack:
 - **Backend:** Python/FastAPI, RESTful API, JWT authentication
 - **Frontend:** React, TypeScript, TailwindCSS, React Query
 - **Database:** Azure SQL, schema design, query optimization on hierarchical data, migrations
