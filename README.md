@@ -24,7 +24,7 @@ Building a product configurator that structures and automates internal workflows
 - **Backend:** Python/FastAPI, RESTful API, JWT authentication
 - **Frontend:** React, TypeScript, TailwindCSS, React Query
 - **Database:** Azure SQL, schema design, query optimization on hierarchical data, migrations
-- **Cloud:** Azure (App Service, Entra ID, Key Vault), role-based authentication
+- **Cloud:** Azure (App Service, Entra ID, Key Vault)
 - **DevOps:** Docker, Azure DevOps CI/CD pipelines, Git
 
 ---
@@ -66,5 +66,5 @@ Building a product configurator that structures and automates internal workflows
 - **Frontend:** React, TailwindCSS, React Query
 - **Backend:** FastAPI, Node.js, RESTful APIs, JWT, WebSockets
 - **Databases:** Azure SQL, SQLite
-- **Cloud & DevOps:** Azure, Azure DevOps, Docker, CI/CD Pipelines, Git
+- **Cloud & DevOps:** Azure, Docker, CI/CD Pipelines, Git
 - **Systems:** Linux, Bash, Socket Programming
