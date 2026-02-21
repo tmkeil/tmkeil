@@ -9,7 +9,7 @@
 
 ---
 
-Software developer and graduate of 42 Heilbronn. After a B.Eng. in Mechanical Engineering and six years at Mercedes-Benz, I switched into software development. Currently building a cloud-native web application as a full-stack developer at iss innovative software services.
+Software developer and graduate of 42 Heilbronn. After a B.Eng. in Mechanical Engineering and six years at Mercedes-Benz, I switched into software development. Currently building a cloud-native web application as a full-stack developer intern.
 
 **Looking for:** Cloud & DevOps, Software Development positions (available from April 2026)  
 *Currently learning: Kubernetes*
